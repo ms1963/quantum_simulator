@@ -1,0 +1,53 @@
+# Contributing to quantum_simulator
+
+Welcome! We are excited that you're interested in contributing to the `quantum_simulator` project.
+
+Whether you're fixing a bug, improving documentation, or suggesting new features, your help is greatly appreciated.
+
+## How to Contribute
+
+1. **Fork the repository**  
+   Go to [https://github.com/ms1963/quantum_simulator](https://github.com/ms1963/quantum_simulator)  
+   Click the “Fork” button to create your own copy.
+
+2. **Clone your fork**
+       git clone https://github.com/your-username/quantum_simulator.git
+       cd quantum_simulator
+
+3. **Create a new branch**
+       git checkout -b your-feature-name
+
+4. **Make your changes**  
+   Commit descriptive messages and write clear, maintainable code.
+
+5. **Run tests**  
+   Make sure everything works before submitting.
+
+6. **Push and open a pull request**
+       git push origin your-feature-name
+
+   Then visit your fork on GitHub and click “Compare & Pull Request”.
+
+## Code Style and Quality
+
+- Follow idiomatic Python and PEP8 guidelines.
+- Comment your code meaningfully.
+- Include or update docstrings.
+- Prefer pure functions and well-isolated modules when possible.
+
+## Reporting Issues
+
+If you discover a bug or have a feature request:
+- Search [existing issues](https://github.com/ms1963/quantum_simulator/issues) first.
+- If it doesn’t exist, open a [new issue](https://github.com/ms1963/quantum_simulator/issues/new).
+
+Please include:
+- A clear description of the problem or idea.
+- Steps to reproduce (for bugs).
+- Relevant logs or screenshots if needed.
+
+## Contributor License
+
+By contributing, you agree that your contributions will be licensed under the MIT License as specified in the `LICENSE` file.
+
+Thank you for helping improve `quantum_simulator`!
