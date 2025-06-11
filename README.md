@@ -13,5 +13,5 @@ Complete Gate Library: Every standard quantum gate plus custom operations
 - No Restrictions: Full access to all quantum computing concepts
 
 ## Documentation
-You'll find detailed information in src/docs
+You'll find detailed information in code/docs
 
