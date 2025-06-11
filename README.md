@@ -1,4 +1,4 @@
-# Quantum Simulator Complete User Guide
+# Quantum Simulator
 
 ## Introduction
 Welcome to the Quantum Simulator - a comprehensive tool for learning, experimenting with, and developing quantum algorithms. This simulator provides a complete quantum computing environment without artificial limitations, allowing you to explore the fascinating world of quantum mechanics and quantum information processing.
@@ -13,5 +13,5 @@ Complete Gate Library: Every standard quantum gate plus custom operations
 - No Restrictions: Full access to all quantum computing concepts
 
 ## Documentation
-You'll find detailed information in docs
+You'll find detailed information in src/docs
 
