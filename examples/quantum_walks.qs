@@ -1,5 +1,3 @@
-examples/quantum_walks.qs
-
 # Quantum Random Walk
 # Demonstrates quantum analog of classical random walk
 
